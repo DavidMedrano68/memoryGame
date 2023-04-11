@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { gameCards } from "../imgObj";
+import { gameCards } from "./imgObj";
 import shuffle from "../shuffle";
 import ScoreBoard from "./scoreBoard";
 export default function Game() {
