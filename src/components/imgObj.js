@@ -1,49 +1,60 @@
 import dungDefender from "/src/images/dungDefender.png";
+import ghost from "/src/images/ghost.png";
+import cornifer from "/src/images/cornifer.png";
+import hornet from "/src/images/hornet.png";
+import mantisLords from "/src/images/mantisLords.png";
+import quirrel from "/src/images/quirrel.png";
+import radiance from "/src/images/radiance.png";
+import soulMaster from "/src/images/soulMaster.png";
+import zote from "/src/images/zote.png";
+import watcherKnight from "/src/images/watcherKnight.png";
+import sly from "/src/images/sly.png";
+import brokenVessel from "/src/images/brokenVessel.png";
 export const gameCards = [
   {
     id: 1,
     name: "Ghost",
-    url: "/src/images/ghost.png",
+    url: ghost,
   },
   {
     id: 2,
     name: "Cornifer",
-    url: "/src/images/cornifer.png",
+    url: cornifer,
   },
   {
     id: 3,
     name: "Hornet",
-    url: "/src/images/hornet.png",
+    url: hornet,
   },
   {
     id: 4,
     name: "Mantis Lords",
-    url: "/src/images/mantisLords.png",
+    url: mantisLords,
   },
   {
     id: 5,
     name: "Quirrel",
-    url: "/src/images/quirrel.png",
+    url: quirrel,
   },
   {
     id: 6,
     name: "Radiance",
-    url: "/src/images/radiance.png",
+    url: radiance,
   },
   {
     id: 7,
     name: "Soul Master",
-    url: "/src/images/soulMaster.png",
+    url: soulMaster,
   },
   {
     id: 8,
     name: "Zote",
-    url: "/src/images/zote.png",
+    url: zote,
   },
   {
     id: 9,
     name: "Watcher Knight",
-    url: "/src/images/watcherKnight.png",
+    url: watcherKnight,
   },
   {
     id: 10,
@@ -53,11 +64,11 @@ export const gameCards = [
   {
     id: 11,
     name: "Sly",
-    url: "/src/images/sly.png",
+    url: sly,
   },
   {
     id: 12,
     name: "Broken Vessel",
-    url: "/src/images/brokenVessel.png",
+    url: brokenVessel,
   },
 ];
